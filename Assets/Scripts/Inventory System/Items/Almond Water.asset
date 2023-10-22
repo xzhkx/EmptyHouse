@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74a330f0620ce0f4bac3aadc717f6135, type: 3}
+  m_Name: Almond Water
+  m_EditorClassIdentifier: 
+  displayName: Almon Water
+  itemObject: {fileID: 5309367417145291125, guid: 946ed713e59f8124b8ea4a1957e7cc28, type: 3}
+  itemDesciption: Drinkable
+  itemID: 10
